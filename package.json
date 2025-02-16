@@ -1,0 +1,24 @@
+{
+  "name": "my-vite-vue-app",
+  "version": "1.0.0",
+  "description": "A Vite + Vue 3 application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.2",
+    "tailwindcss": "^4.0.6",
+    "vite": "^6.1.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
